@@ -1,3 +1,3 @@
-remote_theme: jekyll/jekyll-theme-primer
+theme: jekyll-theme-primer
 title: "My Database"
 description: "Strictly Wiki Searched Node"
