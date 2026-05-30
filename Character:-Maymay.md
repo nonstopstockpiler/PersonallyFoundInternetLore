@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /Arknights:-Endfield-2026/Character:-Maymay.html
 ---
 
 # Character Maymay
