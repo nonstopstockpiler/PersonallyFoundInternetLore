@@ -2,5 +2,6 @@
 
 Welcome to the central archive node.
 
-## Database Entries
-* [Character Maymay](./Character-Maymay.html)
+## Database Entries:
+## 🎮 Arknights: Endfield (Game, Release Date: 2026)
+* [Character Maymay](./Arknights-Endfield-2026/Character:-Maymay.html)
